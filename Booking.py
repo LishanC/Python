@@ -6,5 +6,5 @@ class Booking:
         self.ResourceName = ResourceName
         self.CoworkerId = CoworkerId
         self.CoworkerFullname= CoworkerFullName
-		self.BookFromTime=BookFromTime
-		self.BookToTime=BookToTime
+	self.BookFromTime=BookFromTime
+	self.BookToTime=BookToTime
