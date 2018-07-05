@@ -184,12 +184,7 @@ def _checkinReservation(user,dateTime):
     return True
      	 
 
-#testing function calls, all successfully work from my end
-#had to comment out some of the code and class imports to test in order for it to work
-#_getUserAuthorizations(users)
-#_getMachineAuthorizationRequirement(machines)
-#_checkAuthorizationsMatch(_getUserAuthorizations(users), _getMachineAuthorizationRequirement(machines))
-#_checkMachineReservation(users, machines, 0)
+
 
 
  
